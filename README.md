@@ -18,8 +18,8 @@ This repository follows [The Rust Programming Language](https://doc.rust-lang.or
 |---|---|---|
 | `hello-cargo` | First Cargo project | Cargo basics |
 | `guessing-game` | A simple number guessing game | Variables, input, loops, matching |
-| `temperature-converter` | Convert between Celsius, Fahrenheit, and Kelvin | Functions, parsing, control flow |
-| `fibonacci` | Calculate the nth Fibonacci number using different algorithms | Recursion, iteration, dynamic programming, complexity analysis |
+| `temp-converter` | Convert between Celsius, Fahrenheit, and Kelvin | Functions, parsing, control flow |
+| `fibo-rs` | Calculate the nth Fibonacci number using different algorithms | Recursion, iteration, dynamic programming, complexity analysis |
 
 ## Goals
 
